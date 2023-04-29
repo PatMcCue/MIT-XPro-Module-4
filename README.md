@@ -1,7 +1,2 @@
 Module 4
-
-Three balls bounce around the browser window and changing to a random color each time they hit the browser window's edge.
-
-Pac-Man animation
-
-Manipulating arrays
+Balls changing color as they bounce around the window, Pac-Man animation, manipulating arrays, switch statement calculator
